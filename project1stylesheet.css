@@ -1,0 +1,182 @@
+body {
+    margin: 0px;
+}
+
+#header {
+    min-height: 21.2vw;
+    max-width: 100%;
+    background-image: url(http://shirley.premierhomestx.com/wp-content/uploads/2013/06/HoustonSkylineMS-cropped-1.png);
+    background-size: cover;
+    background-position: center;
+}
+
+#right {
+    float: left;
+    max-width: 45%;
+    margin-left: 3%;
+    box-sizing: border-box;
+}
+
+#left {
+    float: left;
+    display: block;
+    width: 20%;
+    margin-left: 16%;
+}
+
+#logo {
+    background-image: url(http://static.tumblr.com/37ca133c1a84d5b7856c51a7682df3e9/w5gxxfv/XEun8vjhb/tumblr_static_aekkbfv17k00w0080cgwg4kso.png);
+    background-size: cover;
+    background-position: center;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 5px solid white;
+    margin-top: -50px;
+    margin-left: 16%
+}
+
+img {
+    width: 80%;
+}
+
+#follower {
+    width: 246px;
+    height: 90px;
+    position: fixed;
+    background-color: white;
+    bottom: 0;
+    right: 0;
+    margin: 1%;
+    border: 1px solid #d4d4d4;
+    box-sizing: border-box;
+    margin-right: 0px;
+    padding: 12px;
+    padding-right: 0px;
+    border-radius: 4px;
+    box-shadow: -1px 1px 2px #d4d4d4;
+}
+
+#box_logo {
+    background-image: url(http://static.tumblr.com/37ca133c1a84d5b7856c51a7682df3e9/w5gxxfv/XEun8vjhb/tumblr_static_aekkbfv17k00w0080cgwg4kso.png);
+    background-size: cover;
+    background-position: center;
+    width: 30px;
+    height: 30px;
+    background-color: #221F20;
+    float: left;
+    border-radius: 2px;
+}
+
+#details {
+    font-size: 13px;
+    float: left;
+    margin-left: 8px;
+    font-family: Arial;
+}
+
+#bluepart {
+    float: left;
+    background-color: #418FB8;
+    margin-left: 8px;
+    font-size: 13px;
+    width: 60px;
+    padding: 4px;
+    margin-top: 4px;
+    font-family: Arial;
+    border-radius: 2px;
+}
+
+#bluepart pre {
+    color: white;
+}
+
+pre {
+    margin: 0px;
+    font-family: Arial;
+    color: #3C474D;
+}
+
+#details p {
+    margin: 0px;
+    color: #3C474D;
+}
+
+h6 {
+    font-size: 11px;
+    margin: 0px;
+    font-weight: normal;
+    color: #AAABAB;
+}
+
+#line {
+    border-bottom: 1px solid #d4d4d4;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: -13px;
+}
+
+tiy_logo {
+    width: 100%;
+}
+
+h1 {
+    font-family: Arial;
+    font-size: 38px;
+    color: #3C474D;
+}
+
+h2,
+h5 {
+    font-family: Arial;
+}
+
+a {
+    text-decoration: none;
+    color: #418FB8;
+}
+
+h2 {
+    color: #6D6C6C;
+}
+
+#left p {
+    color: #AAABAB;
+    font-size: 23px;
+}
+
+h5 {
+    color: #AAABAB;
+}
+
+#input {
+    width: 230px;
+    height: 29px;
+    border: 1px solid #d4d4d4;
+    border-radius: 4px;
+}
+
+#right p {
+    font-style: italic;
+    color: #6D6C6C;
+    font-size: 18px;
+}
+
+button {
+    width: 35px;
+    height: 29px;
+    border: 0px;
+    float: right;
+    background-color: white;
+    margin-right: 2px;
+    filter: invert(50%);
+}
+
+button img {
+    filter: invert(50%);
+}
+
+#left #line {
+    width: 225px;
+    margin: 2px;
+}
